@@ -36,7 +36,7 @@ If you are not sure which one you are in, check NUSMods or your faculty pre-requ
 
 - [NUSMods](https://nusmods.com) - Module timetabling and student-written reviews.
 - [NUS Module Catalogue](https://nusmods.com/modules) - Search any NUS module by code with official descriptions and pre-requisites.
-- [CS1010 (C variant) official course site](https://nus-cs1010.github.io) - The C variant authoritative site, per-semester (for example `/2425-s1/`).
+- [CS1010 (C variant) official course site](https://nus-cs1010.github.io/2425-s1/) - The C variant's per-semester course site (currently AY2024/25 Semester 1).
 - [CS1010S course page](https://www.comp.nus.edu.sg/~nityalak/CS1010S) - Public CS1010S course page with Coursemology guide and lecture material indices.
 
 ## General Python learning
@@ -85,7 +85,6 @@ The community options above cover most of the learning journey. If you are stuck
 
 - [Coding Solutions](https://codingsolutions.dev) - Singapore-based programming tutoring; Telegram-first; no package commitment.
 - [Coding Solutions CS1010 services](https://codingsolutions.dev/services/cs1010/) - Specific service page covering module-by-module rates.
-- [Coding Solutions FAQ](https://codingsolutions.dev/faq/) - Pricing, confidentiality, turnaround time, payment.
 
 ## Free utility tools
 
