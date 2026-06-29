@@ -1,6 +1,6 @@
 # Awesome Singapore CS1010 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> Curated resources for students taking NUS CS1010 and its variants (CS1010S, CS1010E, CS1010J, CS1010X) in Singapore.
+> Introductory programming methodology course and its variants at the National University of Singapore.
 
 This list covers what is actually useful, not everything that exists. Each entry includes a brief note on what it is for and when to use it.
 
