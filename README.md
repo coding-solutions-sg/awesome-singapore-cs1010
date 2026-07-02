@@ -1,4 +1,5 @@
 # Awesome Singapore CS1010 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img src="media/logo.svg" align="right" width="120" alt="Awesome Singapore CS1010 logo">
 
 > Introductory programming methodology course and its variants at the National University of Singapore.
 
