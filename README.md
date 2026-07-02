@@ -16,9 +16,6 @@ Maintained by [Coding Solutions](https://codingsolutions.dev/about/), a Singapor
 - [Tools and IDEs](#tools-and-ides)
 - [Singapore communities](#singapore-communities)
 - [Survival guides](#survival-guides)
-- [1-on-1 help](#1-on-1-help)
-- [Free utility tools](#free-utility-tools)
-- [Contribute](#contribute)
 
 ## Understanding the variants
 
@@ -74,23 +71,9 @@ If you are not sure which one you are in, check NUSMods or your faculty pre-requ
 ## Survival guides
 
 - [CS1010 survival guide](https://codingsolutions.dev/blog/cs1010-survival-guide/) - Module structure, highest-leverage prep per component, common mistakes per variant.
-- [CS2030S survival guide](https://codingsolutions.dev/blog/cs2030s-survival-guide/) - For when you have passed CS1010S and the next module hits harder.
 - [Debug like an engineer](https://codingsolutions.dev/blog/debug-like-an-engineer/) - The debugging mindset that separates 65% from 80% on PE assignments.
 - [Programming exam prep](https://codingsolutions.dev/blog/programming-exam-prep/) - How to revise for PE1, PE2, and finals when a week remains.
-- [How to pick a programming tutor in Singapore](https://codingsolutions.dev/blog/picking-a-programming-tutor-singapore/) - Criteria that actually matter when considering paid help.
 
-## 1-on-1 help
-
-The community options above cover most of the learning journey. If you are stuck and the deadline is real, a 1-on-1 session can be the difference between passing and re-taking.
-
-- [Coding Solutions](https://codingsolutions.dev) - Singapore-based programming tutoring; Telegram-first; no package commitment.
-- [Coding Solutions CS1010 services](https://codingsolutions.dev/services/cs1010/) - Specific service page covering module-by-module rates.
-
-## Free utility tools
-
-- [CS1010 Grade Calculator](https://codingsolutions.dev/tools/cs1010-grade-calculator/) - Weighted running average plus what you need on remaining components to hit your target.
-- [Polytechnic Module Code Decoder](https://codingsolutions.dev/tools/poly-module-decoder/) - Sister tool for SP, NP, NYP, TP, and RP students (adjacent to CS1010).
-
-## Contribute
+## Contributing
 
 Contributions welcome. See [contributing.md](contributing.md) for the quality bar and submission steps.
